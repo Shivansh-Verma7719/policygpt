@@ -5,6 +5,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*.dta
+*.parquet
+
 # C extensions
 *.so
 
